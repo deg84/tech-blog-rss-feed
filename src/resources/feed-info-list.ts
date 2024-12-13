@@ -235,6 +235,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ROXX', 'https://techblog.roxx.co.jp/feed'],
   ['Rabee', 'https://zenn.dev/p/rabee/feed'],
   ['Red Hat', 'https://rheb.hatenablog.com/feed'],
+  ['Re:Earth', 'https://reearth.engineering/tags/Japanese/rss.xml'],
   ['Repro', 'https://tech.repro.io/feed'],
   ['Retail AI', 'https://note.com/retail_ai/rss'],
   ['Retty', 'https://engineer.retty.me/feed'],
